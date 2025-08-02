@@ -1,0 +1,113 @@
+[
+  {
+    "type": "text",
+    "content": "Custom stylization is all about giving your artwork a unique look that stands out. With MidJourney, you can use advanced commands to achieve this. Today, we'll focus on using stylization commands and aspect ratios."
+  },
+  {
+    "type": "text",
+    "content": "Let's start with the basic command --stylize or --s parameter. It influences how strongly this training is applied.\n\nThe next one is stylization command --Sref allows you to reference a specific style from an image link. By adjusting the stylization parameter (s), you can control the intensity of the applied style."
+  },
+  {
+    "type": "text",
+    "content": "Let's start with a brief overview of the commands:\n--stylize 0-1000: Low stylization values produce images that closely match the prompt but are less artistic. High stylization values create images that are very artistic but less connected to the prompt.\n--Sref [link] s 250-1000: Applies the style from the referenced image link. The s parameter ranges from 250 to 1000, controlling the intensity of the style."
+  },
+  {
+    "type": "heading",
+    "title": "",
+    "content": null,
+    "image_url": null
+  },
+  {
+    "type": "text",
+    "content": "The stylization command --Sref is powerful for customizing your artwork. Let's practice using it."
+  },
+  {
+    "type": "practice_task",
+    "title": "Using the Stylization Command",
+    "instruction": "Fill in the gap to apply a custom style using the stylization command in MidJourney.",
+    "task_type": "fill_in_the_gap",
+    "skipped": true
+  },
+  {
+    "type": "heading",
+    "title": "",
+    "content": null,
+    "image_url": null
+  },
+  {
+    "type": "text",
+    "content": "As we already aspect ratios are crucial for defining the dimensions of your artwork. Let's practice using the aspect ratio command."
+  },
+  {
+    "type": "practice_task",
+    "title": "Using Aspect Ratios",
+    "instruction": "Fill in the gap to set a custom aspect ratio using MidJourney.",
+    "task_type": "fill_in_the_gap",
+    "skipped": true
+  },
+  {
+    "type": "heading",
+    "title": "",
+    "content": null,
+    "image_url": null
+  },
+  {
+    "type": "text",
+    "content": "Now, let's move to the next styles --style raw.\nIt uses an alternative model that may work well for users already comfortable with prompting who want more control over their images. Images made with --style raw have less automatic beautification applied, which can result in a more accurate match when prompting for specific styles."
+  },
+  {
+    "type": "practice_task",
+    "title": "Combining Stylization",
+    "instruction": "Fill in the gap to combine stylization and aspect ratio commands in MidJourney.",
+    "task_type": "fill_in_the_gap",
+    "skipped": true
+  },
+  {
+    "type": "heading",
+    "title": "",
+    "content": null,
+    "image_url": null
+  },
+  {
+    "type": "text",
+    "content": "With your newly customized artwork, you're ready to offer personalized digital art commissions. Platforms like Fiverr and Upwork are great places to start."
+  },
+  {
+    "type": "text",
+    "content": "To get started, create a portfolio showcasing your best custom artwork. Highlight the unique styles and aspect ratios you've used. Then, set up a profile on freelance platforms and start offering custom digital portraits and other personalized art commissions."
+  },
+  {
+    "type": "text",
+    "content": "Consistently produce high-quality work, and you'll soon build a reputation as a top designer. The more custom artwork you create, the more opportunities you'll have to earn."
+  },
+  {
+    "type": "heading",
+    "title": "",
+    "content": null,
+    "image_url": null
+  },
+  {
+    "type": "text",
+    "content": "Congratulations! You've mastered the art of custom stylization with MidJourney. You've learned how to use advanced stylization commands and aspect ratios to create unique and personalized artwork, and discovered how to monetize your skills by offering custom art commissions."
+  },
+  {
+    "type": "image",
+    "image_url": "./lesson13 end_files/3a1d2c8f-4739-4b0f-a0f5-0fc57f2687ff.webp",
+    "alt_text": ""
+  },
+  {
+    "type": "heading",
+    "title": "",
+    "content": null,
+    "image_url": null
+  },
+  {
+    "type": "text",
+    "content": "In the next lesson, we'll explore advanced techniques for designing intricate patterns for commercial use. Keep practicing and refining your skills!"
+  },
+  {
+    "type": "image",
+    "image_url": "./lesson13 end_files/2c9234d5-3c22-4c13-b968-e5649176f6fa.webp",
+    "alt_text": ""
+  }
+]

@@ -1,0 +1,198 @@
+[
+  {
+    "type": "heading",
+    "title": "",
+    "content": null,
+    "image_url": null
+  },
+  {
+    "type": "text",
+    "content": "Did you know you can interact with the MidJourney Bot on Discord?\n\nThe MidJourney server has channels for collaboration, technical and billing support, official announcements, feedback, and discussions. It's a supportive and encouraging community eager to share their knowledge with new users."
+  },
+  {
+    "type": "image",
+    "image_url": "./lesson 12 end_files/e0d230e6-344a-40ab-b11f-dfa07e9d7fdb.webp",
+    "alt_text": ""
+  },
+  {
+    "type": "text",
+    "content": "You can work one-on-one with the MidJourney Bot in your Direct Messages.\n\nUsing the familiar /imagine command, the bot produces a grid of low-resolution image options based on your prompt.\n\nReady to upscale those images to stunning high-definition? Let's learn how!"
+  },
+  {
+    "type": "heading",
+    "title": "",
+    "content": null,
+    "image_url": null
+  },
+  {
+    "type": "text",
+    "content": "So, you generated a grid of low-resolution image options through the /imagine command. Now, let's upscale those images! The U1, U2, U3, U4 buttons separate an image from the grid, allowing you to download it or use additional tools like Zoom Out or Pan."
+  },
+  {
+    "type": "image",
+    "image_url": "./lesson 12 end_files/40c234d1-0de3-4910-b509-182cfa2f76d8.webp",
+    "alt_text": ""
+  },
+  {
+    "type": "heading",
+    "title": "",
+    "content": null,
+    "image_url": null
+  },
+  {
+    "type": "text",
+    "content": "When using legacy MidJourney model versions, the U buttons upscale an image, generating a larger version with more details. This process uses Fast GPU time."
+  },
+  {
+    "type": "practice_task",
+    "title": "Let's Start with an Image",
+    "instruction": "Fill in the gap to create an image.",
+    "task_type": "fill_in_the_gap",
+    "skipped": true
+  },
+  {
+    "type": "heading",
+    "title": "",
+    "content": null,
+    "image_url": null
+  },
+  {
+    "type": "text",
+    "content": "Now, you can choose an image that you want to Upscale. Remember, simply click on the U button. Let's consider the U4 version."
+  },
+  {
+    "type": "image",
+    "image_url": "./lesson 12 end_files/05f51963-d018-4a93-bdf2-7e8fb078d53a.webp",
+    "alt_text": ""
+  },
+  {
+    "type": "quiz",
+    "question": "Let's think! What button you should click on to double the size of your image but add new details to the image?",
+    "options": [
+      {
+        "text": "Upscale (Subtle)",
+        "is_correct": false
+      },
+      {
+        "text": "Upscale (Creative)",
+        "is_correct": false
+      }
+    ],
+    "explanation": "Unlike, Upscale (Subtle) - Upscale (Creative) button doubles the size of your image and adds new details."
+  },
+  {
+    "type": "heading",
+    "title": "",
+    "content": null,
+    "image_url": null
+  },
+  {
+    "type": "text",
+    "content": "Here is how MidJourney Upscale the image in a creative way:"
+  },
+  {
+    "type": "image",
+    "image_url": "./lesson 12 end_files/36248bf4-7a7c-414f-b967-e6bd4c95091e.webp",
+    "alt_text": ""
+  },
+  {
+    "type": "heading",
+    "title": "",
+    "content": null,
+    "image_url": null
+  },
+  {
+    "type": "text",
+    "content": "The V1, V2, V3, V4 buttons create incremental variations of the selected grid image.\n\nThese variations generate a new image grid similar in style and composition to the chosen image."
+  },
+  {
+    "type": "image",
+    "image_url": "./lesson 12 end_files/7682110c-d944-4a42-9724-c830dae8f51d.webp",
+    "alt_text": ""
+  },
+  {
+    "type": "heading",
+    "title": "",
+    "content": null,
+    "image_url": null
+  },
+  {
+    "type": "text",
+    "content": "Now that we've practiced the basic upscaling commands, let's explore some more advanced prompts and techniques to further enhance your images. Ready to take it to the next level?"
+  },
+  {
+    "type": "practice_task",
+    "title": "Let's Add Some Chaos!",
+    "instruction": "That's correct; you can add some chaos to your images! Fill in the gap by using an advanced parameter.",
+    "task_type": "fill_in_the_gap",
+    "skipped": true
+  },
+  {
+    "type": "practice_task",
+    "title": "Let's Add Less Chaos!",
+    "instruction": "Fill in the gap by using an advanced parameter.",
+    "task_type": "fill_in_the_gap",
+    "skipped": true
+  },
+  {
+    "type": "quiz",
+    "question": "How do you think --chaos value influence your prompt?",
+    "options": [
+      {
+        "text": "",
+        "is_correct": false
+      },
+      {
+        "text": "",
+        "is_correct": false
+      },
+      {
+        "text": "The higher --chaos value image, the more varied and unexpected image grids",
+        "is_correct": true
+      }
+    ],
+    "explanation": "The --chaos or --c parameter influences how varied the initial image grids are. High --chaos values will produce more unusual and unexpected results and compositions. Lower --chaos values have more reliable, repeatable results."
+  },
+  {
+    "type": "heading",
+    "title": "",
+    "content": null,
+    "image_url": null
+  },
+  {
+    "type": "text",
+    "content": "I hope you have enjoyed adding chaos to your images! Now, let's try one more thing before you go.\n\nExplore unconventional aesthetics with the experimental --weird or --w parameter."
+  },
+  {
+    "type": "practice_task",
+    "title": "Let's Create Weird Things!",
+    "instruction": "This parameter introduces quirky and offbeat qualities to your generated images, resulting in unique and unexpected outcomes.",
+    "task_type": "fill_in_the_gap",
+    "skipped": true
+  },
+  {
+    "type": "heading",
+    "title": "",
+    "content": null,
+    "image_url": null
+  },
+  {
+    "type": "text",
+    "content": "Congratulations! You've mastered the art of image upscaling, and learned how to make your images truly unique! Before you go, let's sum up:\n\n--chaos - controls how diverse the initial grid images are from each other.\n--weird - controls how unusual an image is compared to previous Midjourney images.\n--stylize - controls how strongly Midjourney's default aesthetic is applied."
+  },
+  {
+    "type": "image",
+    "image_url": "./lesson 12 end_files/5eecce5e-a645-4ddc-af19-6789c873ec5b.webp",
+    "alt_text": ""
+  },
+  {
+    "type": "heading",
+    "title": "",
+    "content": null,
+    "image_url": null
+  },
+  {
+    "type": "text",
+    "content": "In the next lesson, we'll explore advanced stylization techniques to create unique and personalized artwork. Keep practicing and refining your skills!"
+  }
+]

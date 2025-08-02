@@ -1,0 +1,173 @@
+[
+  {
+    "type": "text",
+    "content": "Today, we're going to create a complex image by blending multiple elements together. It's going to be exciting!"
+  },
+  {
+    "type": "heading",
+    "title": "",
+    "content": null,
+    "image_url": null
+  },
+  {
+    "type": "text",
+    "content": "The blend mode command, /blend, allows you to upload 2-5 images quickly. It then analyzes the concepts and aesthetics of each image and merges them into a novel new image."
+  },
+  {
+    "type": "image",
+    "image_url": "./lesson 6 end_files/d1036047-6d8b-4fa0-a96b-dda5ad6b7515.webp",
+    "alt_text": ""
+  },
+  {
+    "type": "text",
+    "content": "You can use this tool on mobile devices, too."
+  },
+  {
+    "type": "image",
+    "image_url": "./lesson 6 end_files/f38a027e-1a75-4802-b032-9d8c002d2bee.webp",
+    "alt_text": ""
+  },
+  {
+    "type": "quiz",
+    "question": "So, what is the primary function of blend mode in image creation?",
+    "options": [
+      {
+        "text": "",
+        "is_correct": false
+      },
+      {
+        "text": "Isolating elements in an image",
+        "is_correct": false
+      },
+      {
+        "text": "Combining multiple images or elements",
+        "is_correct": false
+      },
+      {
+        "text": "",
+        "is_correct": false
+      }
+    ],
+    "explanation": "Blend mode is used to merge elements and images to create new visual effects."
+  },
+  {
+    "type": "heading",
+    "title": "",
+    "content": null,
+    "image_url": null
+  },
+  {
+    "type": "text",
+    "content": "To use the blend mode in MidJourney, type /blend and then upload the images you want to combine. You can upload 2 to 5 images. Each image will contribute to the final blended result."
+  },
+  {
+    "type": "image",
+    "image_url": "./lesson 6 end_files/c1c6eb94-d6c0-41de-982e-259d6cbd210f.webp",
+    "alt_text": ""
+  },
+  {
+    "type": "heading",
+    "title": "",
+    "content": null,
+    "image_url": null
+  },
+  {
+    "type": "text",
+    "content": "After typing the /blend command, you will be prompted to upload two photos.\n\nYou can add more images by selecting the optional image3, image4, or image5 fields."
+  },
+  {
+    "type": "text",
+    "content": "Blended images have a default 1:1 aspect ratio, but you can select between\n\n- a square aspect ratio (1:1),\n\n- portrait aspect ratio (2:3),\n\n- or landscape aspect ratio (3:2)\n\nusing the dimensions field."
+  },
+  {
+    "type": "image",
+    "image_url": "./lesson 6 end_files/f5697266-854c-4235-982d-5d6d07f0de10.webp",
+    "alt_text": ""
+  },
+  {
+    "type": "heading",
+    "title": "",
+    "content": null,
+    "image_url": null
+  },
+  {
+    "type": "text",
+    "content": "Otherwise, you can write a textual prompt as we did previously. You just have to choose the elements you want to blend."
+  },
+  {
+    "type": "practice_task",
+    "title": "Combining Elements with Blend Mode",
+    "instruction": "Fill in the gap to combine two subjects using blend mode.",
+    "task_type": "fill_in_the_gap",
+    "skipped": true
+  },
+  {
+    "type": "heading",
+    "title": "",
+    "content": null,
+    "image_url": null
+  },
+  {
+    "type": "text",
+    "content": "Use blend mode to add textures to your images. This can enhance the visual interest and depth of your artwork."
+  },
+  {
+    "type": "practice_task",
+    "title": "Creating Textures with Blend Mode",
+    "instruction": "Fill in the gap to add a texture to a subject using blend mode.",
+    "task_type": "fill_in_the_gap",
+    "skipped": true
+  },
+  {
+    "type": "text",
+    "content": "Try creating your own prompts using blend mode to combine elements, create textures, and apply effects. Here are a few examples to practice:\n\nCombining Elements: \"Combine a cityscape with a galaxy using blend mode.\"\n\nCreating Textures: \"Add a watercolor texture to a floral image using blend mode.\""
+  },
+  {
+    "type": "quiz",
+    "question": "What can help you achieve better results when using blend mode?",
+    "options": [
+      {
+        "text": "",
+        "is_correct": false
+      },
+      {
+        "text": "",
+        "is_correct": false
+      },
+      {
+        "text": "Being specific and experimenting with different effects",
+        "is_correct": true
+      },
+      {
+        "text": "",
+        "is_correct": false
+      }
+    ],
+    "explanation": "Being specific and experimenting with different effects helps achieve better results when using blend mode."
+  },
+  {
+    "type": "heading",
+    "title": "",
+    "content": null,
+    "image_url": null
+  },
+  {
+    "type": "text",
+    "content": "Excellent! You've now learned how to use blend mode to create complex and layered images. Keep practicing and refining your prompts to create even more unique and visually appealing artwork."
+  },
+  {
+    "type": "heading",
+    "title": "",
+    "content": null,
+    "image_url": null
+  },
+  {
+    "type": "text",
+    "content": "In the next lesson, we'll start exploring advanced techniques and styles. Stay creative and keep experimenting!"
+  },
+  {
+    "type": "image",
+    "image_url": "./lesson 6 end_files/20daf0a5-0847-49d6-9aed-243de2d39bfc.webp",
+    "alt_text": ""
+  }
+]

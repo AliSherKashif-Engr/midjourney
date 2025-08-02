@@ -1,0 +1,150 @@
+[
+  {
+    "type": "text",
+    "content": "Picture this: You're tasked with creating product images that not only look great but also effectively showcase the features and benefits of each item. High-quality product images can make a huge difference in attracting buyers and driving sales."
+  },
+  {
+    "type": "heading",
+    "title": "",
+    "content": null,
+    "image_url": null
+  },
+  {
+    "type": "text",
+    "content": "High-quality images are essential for online listings. They help build trust with potential buyers, showcase product details, and can significantly impact purchasing decisions."
+  },
+  {
+    "type": "image",
+    "image_url": "./lesson 11 end_files/3f29691d-205c-4690-8c2f-a2fe33f124a0.webp",
+    "alt_text": ""
+  },
+  {
+    "type": "text",
+    "content": "Let's explore how to craft the perfect prompt for MidJourney to generate these images.\n\nAnd now, we will be using another cool command to generate images!"
+  },
+  {
+    "type": "heading",
+    "title": "",
+    "content": null,
+    "image_url": null
+  },
+  {
+    "type": "text",
+    "content": "Personalize the appearance of your images using the Style Tuner. Use the /tune command to generate a range of sample images showing different visual styles based on your prompt.\n\nThen, you can choose your favorite images, and receive a unique code you can use to customize the look of future jobs."
+  },
+  {
+    "type": "practice_task",
+    "title": "Let's Start!",
+    "instruction": "Complete the prompt.",
+    "task_type": "fill_in_the_gap",
+    "skipped": true
+  },
+  {
+    "type": "heading",
+    "title": "",
+    "content": null,
+    "image_url": null
+  },
+  {
+    "type": "text",
+    "content": "Now, when your Style Tuner is ready, the MidJourney Bot will send you a direct message with a link to your Tuner."
+  },
+  {
+    "type": "image",
+    "image_url": "./lesson 11 end_files/db49d025-1167-4dec-93b7-f21857fb77ac.webp",
+    "alt_text": ""
+  },
+  {
+    "type": "heading",
+    "title": "",
+    "content": null,
+    "image_url": null
+  },
+  {
+    "type": "text",
+    "content": "Your Style Tuner will show rows of image pairs, each representing a distinct visual direction for your prompt.\n\nYou can use the image you prefer in each pair. If you don't feel strongly about either image, leave the empty middle box selected."
+  },
+  {
+    "type": "heading",
+    "title": "",
+    "content": null,
+    "image_url": null
+  },
+  {
+    "type": "text",
+    "content": "Showcasing products in use can help potential buyers visualize how they would use the product in their daily lives. This approach can make the product more relatable and appealing."
+  },
+  {
+    "type": "image",
+    "image_url": "./lesson 11 end_files/d5433621-a0a2-4232-af26-0c958b60e665.webp",
+    "alt_text": ""
+  },
+  {
+    "type": "heading",
+    "title": "",
+    "content": null,
+    "image_url": null
+  },
+  {
+    "type": "text",
+    "content": "Now, with the code, you can easily generate the needed styled images! Simply use the /imagine command and paste your copied prompt and --style\nparameter into the prompt field."
+  },
+  {
+    "type": "practice_task",
+    "title": "Let's Try!",
+    "instruction": "Fill in the gap to create a product image.",
+    "task_type": "fill_in_the_gap",
+    "skipped": true
+  },
+  {
+    "type": "heading",
+    "title": "",
+    "content": null,
+    "image_url": null
+  },
+  {
+    "type": "text",
+    "content": "To make your product images even more appealing, consider using lifestyle elements and settings that resonate with your target audience. This can add a personal touch and make the product more desirable."
+  },
+  {
+    "type": "heading",
+    "title": "",
+    "content": null,
+    "image_url": null
+  },
+  {
+    "type": "text",
+    "content": "So, let's blend creativity with our listing images! Just add a double colon (::) to a prompt. This indicates to the Midjourney Bot that each part of the prompt should be considered individually.\n\nWhen words are considered together, the Midjourney Bot produces images combining the concepts of these words. If the prompt is separated into two parts, both concepts are considered separately and then blended together, like creating an image of a sailing ship traveling through space."
+  },
+  {
+    "type": "practice_task",
+    "title": "Enhancing Product Appeal",
+    "instruction": "Fill in the gap to create a lifestyle product image with specific elements.",
+    "task_type": "fill_in_the_gap",
+    "skipped": true
+  },
+  {
+    "type": "heading",
+    "title": "",
+    "content": null,
+    "image_url": null
+  },
+  {
+    "type": "text",
+    "content": "Excellent! You've now mastered the basics of creating high-quality product listing images using MidJourney. The blogger is excited to see how these stunning visuals will boost his online sales.\n\nRemember, each image is an opportunity to showcase the product's best features and attract potential buyers."
+  },
+  {
+    "type": "image",
+    "image_url": "./lesson 11 end_files/4dee7062-8b16-4844-8e64-05a77e78eeec.webp",
+    "alt_text": ""
+  },
+  {
+    "type": "text",
+    "content": "Until next time, keep creating and refining your product images!"
+  },
+  {
+    "type": "image",
+    "image_url": "./lesson 11 end_files/e860fbfa-2a26-45ff-b56b-2266d91e47ca.webp",
+    "alt_text": ""
+  }
+]

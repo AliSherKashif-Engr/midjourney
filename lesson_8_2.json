@@ -1,0 +1,149 @@
+[
+  {
+    "type": "text",
+    "content": "You received an order and need to create unique patterns for packaging and fabrics that will stand out in the market. Let's make your designs unforgettable!"
+  },
+  {
+    "type": "heading",
+    "title": "",
+    "content": null,
+    "image_url": null
+  },
+  {
+    "type": "text",
+    "content": "Let's start with the basics! Usually, pattern design involves creating repeating visual elements that can be applied to various surfaces, such as packaging or fabrics. But we got creative, so pattern design can be diverse, encompassing a wide range of styles and applications."
+  },
+  {
+    "type": "text",
+    "content": "Patterns can be geometric, floral, abstract, or thematic, depending on the intended use and audience. The possibilities are endless!"
+  },
+  {
+    "type": "image",
+    "image_url": "./lesson 8 end_files/facf78ef-c400-4aec-929f-105a23d22bf5.webp",
+    "alt_text": ""
+  },
+  {
+    "type": "quiz",
+    "question": "What is the primary purpose of pattern design?",
+    "options": [
+      {
+        "text": "",
+        "is_correct": false
+      },
+      {
+        "text": "",
+        "is_correct": false
+      },
+      {
+        "text": "To create visually appealing and repeatable designs",
+        "is_correct": true
+      },
+      {
+        "text": "",
+        "is_correct": false
+      }
+    ],
+    "explanation": "The primary purpose of pattern design is to create visually appealing and repeatable designs that can be applied to various surfaces."
+  },
+  {
+    "type": "text",
+    "content": "Let's practice designing patterns for packaging and fabrics. We will use the command /imagine in MidJourney to create these patterns.\n\nReady to unleash your creativity?"
+  },
+  {
+    "type": "heading",
+    "title": "",
+    "content": null,
+    "image_url": null
+  },
+  {
+    "type": "text",
+    "content": "Start by choosing a theme for your packaging pattern. What kind of visual impact do you want your product to have? Let's create something beautiful."
+  },
+  {
+    "type": "practice_task",
+    "title": "Designing Packaging Patterns",
+    "instruction": "Fill in the gap to create a themed pattern.",
+    "task_type": "fill_in_the_gap",
+    "skipped": true
+  },
+  {
+    "type": "heading",
+    "title": "",
+    "content": null,
+    "image_url": null
+  },
+  {
+    "type": "text",
+    "content": "Next, choose a theme for your fabric pattern. This could be anything from geometric shapes to abstract designs, depending on the fashion brand's style."
+  },
+  {
+    "type": "practice_task",
+    "title": "Designing Fabric Patterns",
+    "instruction": "Fill in the gap to create a themed pattern.",
+    "task_type": "fill_in_the_gap",
+    "skipped": true
+  },
+  {
+    "type": "heading",
+    "title": "",
+    "content": null,
+    "image_url": null
+  },
+  {
+    "type": "text",
+    "content": "Once you've designed your patterns, you can apply them to mockups of products or fabrics to see how they look. This helps in visualizing the final product."
+  },
+  {
+    "type": "practice_task",
+    "title": "Applying Patterns to Products",
+    "instruction": "Fill in the gap.",
+    "task_type": "fill_in_the_gap",
+    "skipped": true
+  },
+  {
+    "type": "heading",
+    "title": "",
+    "content": null,
+    "image_url": null
+  },
+  {
+    "type": "text",
+    "content": "To sell your patterns, you need to showcase them effectively. Create high-quality mockups and use social media, online portfolios, and e-commerce platforms to reach potential buyers."
+  },
+  {
+    "type": "heading",
+    "title": "",
+    "content": null,
+    "image_url": null
+  },
+  {
+    "type": "text",
+    "content": "Let's practice creating prompts for designing and applying patterns to packaging and fabrics."
+  },
+  {
+    "type": "practice_task",
+    "title": "Practicing with Pattern Design",
+    "instruction": "Fill in the gap to create and apply a pattern.",
+    "task_type": "fill_in_the_gap",
+    "skipped": true
+  },
+  {
+    "type": "heading",
+    "title": "",
+    "content": null,
+    "image_url": null
+  },
+  {
+    "type": "text",
+    "content": "Well done! You've now learned how to design and apply unique patterns for packaging and fabrics."
+  },
+  {
+    "type": "image",
+    "image_url": "./lesson 8 end_files/2f9c0700-969f-4be9-9ab5-cced68f00751.webp",
+    "alt_text": ""
+  },
+  {
+    "type": "text",
+    "content": "Until next time, keep creating and refining your patterns!"
+  }
+]

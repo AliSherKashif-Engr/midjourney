@@ -1,0 +1,175 @@
+[
+  {
+    "type": "text",
+    "content": "It actually sounds inspiring to work in MidJourney, but even experienced designers can spend more than an hour to generate one creative image."
+  },
+  {
+    "type": "image",
+    "image_url": "./lesson no 3 end_files/7bc50d7c-2534-4eba-a974-eed57c490867.webp",
+    "alt_text": ""
+  },
+  {
+    "type": "text",
+    "content": "There are several aspects to pay attention to besides the creative elements that make up the final image.\n\nLet's start with a basic prompt for an image."
+  },
+  {
+    "type": "practice_task",
+    "title": "Basic Prompt Creation",
+    "instruction": "Fill in the gap to create a basic prompt for generating an image.",
+    "task_type": "fill_in_the_gap",
+    "skipped": true
+  },
+  {
+    "type": "heading",
+    "title": "",
+    "content": null,
+    "image_url": null
+  },
+  {
+    "type": "text",
+    "content": "That looks nice! But if you want this image in different styles? Here is the trick: you need to improve this prompt by adding a style. You can, of course, write a regular prompt and add a realistic style to it."
+  },
+  {
+    "type": "practice_task",
+    "title": "Adding Style to Your Prompt",
+    "instruction": "Fill in the gap to enhance the prompt by including a specific style.",
+    "task_type": "fill_in_the_gap",
+    "skipped": true
+  },
+  {
+    "type": "text",
+    "content": "If describing each image seems complicated, let's do that with the help of an AI. There are much easier and more interesting options! Let's consider them."
+  },
+  {
+    "type": "text",
+    "content": "You can see the main settings on the left side of the MidJourney screen. The style field is the first thing there. Here are some available styles:\n\nTurbo, Realistic, Artistic, Anime, Icon, Logo, Pixel Art, Paper Cut, Sticker, Book Cover, Sketch, Flat Style, Vector Art, Doodle, Minimal, Scribble, Product Design."
+  },
+  {
+    "type": "text",
+    "content": "You can click on your preferred style, and in the prompt box, do the previous process: /imagine prompt.\n\nVoila! How convenient and cool is everything set up, right?"
+  },
+  {
+    "type": "text",
+    "content": "Now, let's move on to other approaches. MidJourney has special parameters for style."
+  },
+  {
+    "type": "text",
+    "content": "For example, we have already generated a normal prompt with the imagine command.\n\nAnd now, to stylize, we can add two dashes and the letter s at the end of the prompt and then a number between 0 and 1000."
+  },
+  {
+    "type": "text",
+    "content": "The resulting structure is as follows:\n\n/imagine Subject, Setting, and Details --s (0-1000)."
+  },
+  {
+    "type": "text",
+    "content": "Low stylization values create images that are consistent with the Prompt but less artistic."
+  },
+  {
+    "type": "image",
+    "image_url": "./lesson no 3 end_files/2159e2b9-1060-4b00-aea1-a61d14314bad.webp",
+    "alt_text": ""
+  },
+  {
+    "type": "practice_task",
+    "title": "Applying Low Stylization",
+    "instruction": "Fill in the gap to create an image with a low stylization value.",
+    "task_type": "fill_in_the_gap",
+    "skipped": true
+  },
+  {
+    "type": "text",
+    "content": "High stylization values create more artistic images by adding different details."
+  },
+  {
+    "type": "image",
+    "image_url": "./lesson no 3 end_files/b3e0f8dc-758b-4311-a696-a8b9e3a8a79f.webp",
+    "alt_text": ""
+  },
+  {
+    "type": "practice_task",
+    "title": "Applying High Stylization",
+    "instruction": "Fill in the gap to create an image with a high stylization value.",
+    "task_type": "fill_in_the_gap",
+    "skipped": true
+  },
+  {
+    "type": "text",
+    "content": "Moreover, you can add the --style raw parameter at the end.\n\nIt affects the primitiveness of the composition. This means AI will not generate unnecessary details to make the image beautiful”, which, in some cases, only gets in the way."
+  },
+  {
+    "type": "practice_task",
+    "title": "Using Raw Style Parameter",
+    "instruction": "Fill in the gap to create an image using the --style raw parameter for simplicity.",
+    "task_type": "fill_in_the_gap",
+    "skipped": true
+  },
+  {
+    "type": "heading",
+    "title": "",
+    "content": null,
+    "image_url": null
+  },
+  {
+    "type": "text",
+    "content": "View matters when it comes to art! What if you need your painting to be more specific? Let's add a view to our prompt to specify the perspective or angle of the image."
+  },
+  {
+    "type": "image",
+    "image_url": "./lesson no 3 end_files/ae0d2ca9-375a-4222-8ace-a0320af59683.webp",
+    "alt_text": ""
+  },
+  {
+    "type": "practice_task",
+    "title": "Incorporating View",
+    "instruction": "Fill in the gap to add a specific view or perspective to your prompt.",
+    "task_type": "fill_in_the_gap",
+    "skipped": true
+  },
+  {
+    "type": "heading",
+    "title": "",
+    "content": null,
+    "image_url": null
+  },
+  {
+    "type": "text",
+    "content": "Finally, let's enhance our prompt by adding light specifications to control the lighting effects in the image."
+  },
+  {
+    "type": "image",
+    "image_url": "./lesson no 3 end_files/fcff8366-41ac-4b99-a1c8-a65f1e4fd94e.webp",
+    "alt_text": ""
+  },
+  {
+    "type": "practice_task",
+    "title": "Enhancing with Light",
+    "instruction": "Fill in the gap to control the lighting effects in your prompt.",
+    "task_type": "fill_in_the_gap",
+    "skipped": true
+  },
+  {
+    "type": "heading",
+    "title": "",
+    "content": null,
+    "image_url": null
+  },
+  {
+    "type": "text",
+    "content": "Well done! You've now learned how to enhance your AI art by incorporating style, view, and light into your prompts. Keep practicing and refining your prompts to create even more stunning images."
+  },
+  {
+    "type": "image",
+    "image_url": "./lesson no 3 end_files/98f758ca-9769-4c8c-af22-118b16fda93e.webp",
+    "alt_text": ""
+  },
+  {
+    "type": "heading",
+    "title": "",
+    "content": null,
+    "image_url": null
+  },
+  {
+    "type": "text",
+    "content": "In the next lesson, we'll explore an advanced technique, lightning. Until next time, keep creating and refining your AI prompts!"
+  }
+]

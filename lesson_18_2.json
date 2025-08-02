@@ -1,0 +1,146 @@
+[
+  {
+    "type": "text",
+    "content": "Engaging with your community on Discord involves more than just chatting. Advanced features like custom commands, bots, and integrations can enhance the experience for your audience and provide valuable feedback on your work."
+  },
+  {
+    "type": "text",
+    "content": "Let's start by exploring custom commands. These commands allow you to create shortcuts for frequently used actions, making it easier to interact with your community."
+  },
+  {
+    "type": "text",
+    "content": "Next, we'll look at how to integrate external links and references. This can include linking to your portfolio, social media, or other relevant resources."
+  },
+  {
+    "type": "heading",
+    "title": "",
+    "content": null,
+    "image_url": null
+  },
+  {
+    "type": "text",
+    "content": "Let's practice setting up custom commands on Discord."
+  },
+  {
+    "type": "quiz",
+    "question": "Which command would you use to add a new custom command on a Discord server to link to an online portfolio?",
+    "options": [
+      {
+        "text": "",
+        "is_correct": false
+      },
+      {
+        "text": "/command add portfolio Link to my online portfolio",
+        "is_correct": true
+      },
+      {
+        "text": "",
+        "is_correct": false
+      },
+      {
+        "text": "",
+        "is_correct": false
+      }
+    ],
+    "explanation": "The correct command is /command add portfolio Link to my online portfolio. This follows the standard format for adding a custom command on Discord."
+  },
+  {
+    "type": "heading",
+    "title": "",
+    "content": null,
+    "image_url": null
+  },
+  {
+    "type": "text",
+    "content": "Now, let's practice integrating external links and references in your Discord server."
+  },
+  {
+    "type": "quiz",
+    "question": "Which prompt should you use to integrate an external link in your Discord server?",
+    "options": [
+      {
+        "text": "",
+        "is_correct": false
+      },
+      {
+        "text": "/link integrate [Link Name] [URL]",
+        "is_correct": false
+      },
+      {
+        "text": "",
+        "is_correct": false
+      },
+      {
+        "text": "/link add [Link Name] [URL]",
+        "is_correct": false
+      }
+    ],
+    "explanation": "The correct prompt is /link add [Link Name] [URL]. This follows the standard command structure used in Discord for adding external links, ensuring the link is correctly integrated into the server."
+  },
+  {
+    "type": "heading",
+    "title": "",
+    "content": null,
+    "image_url": null
+  },
+  {
+    "type": "text",
+    "content": "Engaging with your community is not just about sharing your work; it's also about receiving valuable feedback. Encourage your community members to provide constructive feedback on your projects."
+  },
+  {
+    "type": "text",
+    "content": "Set up dedicated channels for feedback and discussions. This will create a space for your audience to share their thoughts and suggestions, helping you improve your work."
+  },
+  {
+    "type": "text",
+    "content": "Regularly review the feedback you receive and use it to refine your skills and create even better AI art."
+  },
+  {
+    "type": "heading",
+    "title": "",
+    "content": null,
+    "image_url": null
+  },
+  {
+    "type": "text",
+    "content": "Engaging with your community can also lead to monetization opportunities. Collaborate with your community members on projects, offer exclusive content, or even host paid workshops and tutorials."
+  },
+  {
+    "type": "text",
+    "content": "Highlight your community engagement efforts in your portfolio and marketing materials. This will attract clients who value interactive and responsive creators."
+  },
+  {
+    "type": "text",
+    "content": "Consistently engage with your community, and you'll soon build a loyal and supportive audience that can help you grow your business."
+  },
+  {
+    "type": "heading",
+    "title": "",
+    "content": null,
+    "image_url": null
+  },
+  {
+    "type": "text",
+    "content": "Congratulations! You've learned how to leverage advanced Discord features for community engagement. You've mastered custom commands, integrated external links, and discovered how to monetize your community engagement efforts."
+  },
+  {
+    "type": "image",
+    "image_url": "./lesson 18 end_files/115f42d5-14fd-4ce1-887e-e0dd82888bd9.webp",
+    "alt_text": ""
+  },
+  {
+    "type": "heading",
+    "title": "",
+    "content": null,
+    "image_url": null
+  },
+  {
+    "type": "text",
+    "content": "Keep practicing and refining your skills, and continue to engage with your community to receive valuable feedback and support. Your journey as an AI artist is just beginning!"
+  },
+  {
+    "type": "image",
+    "image_url": "./lesson 18 end_files/e5f538a2-a372-4b7e-84f3-2a56a8ff73fe.webp",
+    "alt_text": ""
+  }
+]

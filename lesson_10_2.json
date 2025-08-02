@@ -1,0 +1,185 @@
+[
+  {
+    "type": "text",
+    "content": "You've created stunning images, but they don't look quite right when posted on different social media platforms. Each platform has its own image specifications that need to be met for the best display."
+  },
+  {
+    "type": "heading",
+    "title": "",
+    "content": null,
+    "image_url": null
+  },
+  {
+    "type": "text",
+    "content": "Every social media platform has specific requirements for image dimensions, file sizes, and aspect ratios. Knowing these specifications is crucial for ensuring your images look their best."
+  },
+  {
+    "type": "image",
+    "image_url": "./lesson10 end_files/da767d20-e6fb-4fbb-bae4-96ac8b5dae32.webp",
+    "alt_text": ""
+  },
+  {
+    "type": "text",
+    "content": "Let's start by exploring the most common image specifications for popular platforms like Instagram, Facebook, Twitter, and LinkedIn."
+  },
+  {
+    "type": "heading",
+    "title": "",
+    "content": null,
+    "image_url": null
+  },
+  {
+    "type": "text",
+    "content": "Instagram is all about visuals. For optimal display, use the following specifications:\n\nProfile Picture: 320 x 320 pixels, or Aspect Ratio 1:1.\nPost Image: 1080 x 1350 pixels (Portrait), 1080 x 1080 pixels (Square), or 1080 x 566 pixels (Landscape).\nStory Image: 1080 x 1920 pixels\n\n*An aspect ratio is the width-to-height ratio of an image."
+  },
+  {
+    "type": "image",
+    "image_url": "./lesson10 end_files/a4842d9b-2f57-4ef3-945b-1deda3d38889.webp",
+    "alt_text": ""
+  },
+  {
+    "type": "quiz",
+    "question": "Let's find out the Aspect Ratio of the Instagram story (1080 x 1920 pixels)",
+    "options": [
+      {
+        "text": "",
+        "is_correct": false
+      },
+      {
+        "text": "3:4",
+        "is_correct": false
+      },
+      {
+        "text": "9:16",
+        "is_correct": false
+      }
+    ],
+    "explanation": "To find the aspect ratio, divide the width (1080) by the height (1920) and simplify the fraction. The correct aspect ratio of an Instagram story is 9:16."
+  },
+  {
+    "type": "heading",
+    "title": "",
+    "content": null,
+    "image_url": null
+  },
+  {
+    "type": "text",
+    "content": "Facebook supports various image formats. For the best results, use these specifications:\n\nProfile Picture: 170 x 170 pixels (1:1)\nCover Photo: 820 x 312 pixels (41:26)\nShared Image: 1200 x 630 pixels (12:6.3)"
+  },
+  {
+    "type": "image",
+    "image_url": "./lesson10 end_files/255207bd-1261-42c5-8e79-6866e7f4367d.webp",
+    "alt_text": ""
+  },
+  {
+    "type": "heading",
+    "title": "",
+    "content": null,
+    "image_url": null
+  },
+  {
+    "type": "text",
+    "content": "Use the --ar (or --aspect) parameter change the aspect ratio of the generated image. It is typically expressed as two numbers separated by a colon, such as 7:4 or 4:3."
+  },
+  {
+    "type": "practice_task",
+    "title": "Optimizing Images for Facebook",
+    "instruction": "Fill in the gap to create an image with the correct dimensions.",
+    "task_type": "fill_in_the_gap",
+    "skipped": true
+  },
+  {
+    "type": "heading",
+    "title": "",
+    "content": null,
+    "image_url": null
+  },
+  {
+    "type": "text",
+    "content": "Twitter is great for quick updates and sharing images. Here are the recommended specifications:\n\nProfile Picture: 400 x 400 pixels\nHeader Photo: 1500 x 500 pixels\nIn-Stream Photo: 1024 x 512 pixels"
+  },
+  {
+    "type": "image",
+    "image_url": "./lesson10 end_files/0230a036-9c53-40a4-95fa-8749b52e4360.webp",
+    "alt_text": ""
+  },
+  {
+    "type": "quiz",
+    "question": "Let's do some math! Find the Aspect Ratio of a Twitter Header Photo (1500 x 500 pixels)",
+    "options": [
+      {
+        "text": "",
+        "is_correct": false
+      },
+      {
+        "text": "",
+        "is_correct": false
+      },
+      {
+        "text": "3:1",
+        "is_correct": true
+      }
+    ],
+    "explanation": "Correct! The aspect ratio of a Twitter Header Photo is 3:1."
+  },
+  {
+    "type": "practice_task",
+    "title": "Optimizing Images for Twitter",
+    "instruction": "Fill in the gap to create an image with the correct dimensions for a specific purpose on Twitter.",
+    "task_type": "fill_in_the_gap",
+    "skipped": true
+  },
+  {
+    "type": "heading",
+    "title": "",
+    "content": null,
+    "image_url": null
+  },
+  {
+    "type": "text",
+    "content": "LinkedIn is the go-to platform for professional networking. Here are the image specifications you should follow:\n\nProfile Picture: 400 x 400 pixels (1:1)\nBackground Photo: 1584 x 396 pixels (4:1)\nShared Image: 1200 x 627 pixels (2:1)"
+  },
+  {
+    "type": "image",
+    "image_url": "./lesson10 end_files/9745765f-1aad-4f29-94e2-a352fb317088.webp",
+    "alt_text": ""
+  },
+  {
+    "type": "practice_task",
+    "title": "Optimizing Images for LinkedIn",
+    "instruction": "Fill in the gap to create an image with the correct dimensions.",
+    "task_type": "fill_in_the_gap",
+    "skipped": true
+  },
+  {
+    "type": "heading",
+    "title": "",
+    "content": null,
+    "image_url": null
+  },
+  {
+    "type": "text",
+    "content": "Now, let's craft the perfect prompt to create images that are optimized for each platform. Be specific about the platform, dimensions, and style."
+  },
+  {
+    "type": "practice_task",
+    "title": "Crafting the Perfect Prompt",
+    "instruction": "Fill in the gap to create an image optimized for a specific platform with the correct dimensions and style elements.",
+    "task_type": "fill_in_the_gap",
+    "skipped": true
+  },
+  {
+    "type": "heading",
+    "title": "",
+    "content": null,
+    "image_url": null
+  },
+  {
+    "type": "text",
+    "content": "You've now mastered the basics of optimizing images for different platforms using MidJourney.\n\nThe blogger is ecstatic with your work and is confident these optimized images will boost his engagement even further.\n\nRemember, each platform has its unique specifications, so always tailor your images accordingly."
+  },
+  {
+    "type": "text",
+    "content": "Keep experimenting and perfecting your skills to create the best visual content."
+  }
+]

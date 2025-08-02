@@ -1,0 +1,168 @@
+[
+  {
+    "type": "text",
+    "content": "Just like with light in the previous lesson, we'll now explore lighting in more detail and try different examples to see how it can affect our images."
+  },
+  {
+    "type": "heading",
+    "title": "",
+    "content": null,
+    "image_url": null
+  },
+  {
+    "type": "text",
+    "content": "The direction of the light is crucial in determining how the light affects the objects in the frame."
+  },
+  {
+    "type": "text",
+    "content": "Imagine a bright sun shining from one side of your scene - how would it transform the look of your subject?"
+  },
+  {
+    "type": "image",
+    "image_url": "./lesson 4 end_files/a8425a50-a30a-4c67-bdbd-2e337b1823cd.webp",
+    "alt_text": ""
+  },
+  {
+    "type": "practice_task",
+    "title": "Direction of the Light",
+    "instruction": "Fill in the gap to specify the direction of light in your prompt.",
+    "task_type": "fill_in_the_gap",
+    "skipped": true
+  },
+  {
+    "type": "heading",
+    "title": "",
+    "content": null,
+    "image_url": null
+  },
+  {
+    "type": "text",
+    "content": "Now that we've thought about light direction, let's delve into shadows."
+  },
+  {
+    "type": "image",
+    "image_url": "./lesson 4 end_files/0975214d-8f86-4ce2-9e7d-5b8b714307f5.webp",
+    "alt_text": ""
+  },
+  {
+    "type": "text",
+    "content": "Shadows help add depth and volume to your images, making them more lifelike.\n\nThink of how shadows fall and the contrast they create.\n\nExperimenting with different shadow effects can greatly enhance the realism and mood of your art."
+  },
+  {
+    "type": "practice_task",
+    "title": "Using Shadows",
+    "instruction": "Fill in the gap to add shadow effects to your image.",
+    "task_type": "fill_in_the_gap",
+    "skipped": true
+  },
+  {
+    "type": "heading",
+    "title": "",
+    "content": null,
+    "image_url": null
+  },
+  {
+    "type": "text",
+    "content": "Excellent! Now, let's consider the intensity of the light. This can drastically change the atmosphere of your image."
+  },
+  {
+    "type": "text",
+    "content": "Whether it's the harsh midday sun or the soft glow of candlelight, try different levels of brightness to see how it affects the overall mood and emotion of your artwork."
+  },
+  {
+    "type": "practice_task",
+    "title": "Experimenting with Intensity",
+    "instruction": "Fill in the gap to specify the intensity of light in your image.",
+    "task_type": "fill_in_the_gap",
+    "skipped": true
+  },
+  {
+    "type": "heading",
+    "title": "",
+    "content": null,
+    "image_url": null
+  },
+  {
+    "type": "text",
+    "content": "Ready to put it all together? Let's try creating prompts with different lighting effects to see how they transform your images. Here are a few examples to practice:"
+  },
+  {
+    "type": "text",
+    "content": "Soft Lighting: \"Create an image of a garden with soft, diffused lighting.\"\n\nDim Candlelight: \"Design an image of a room with dim candlelight, creating a cozy atmosphere.\"\n\nTry creating your own prompts for these lighting effects and see what MidJourney generates."
+  },
+  {
+    "type": "image",
+    "image_url": "./lesson 4 end_files/a75ddca8-b629-4569-8920-2e6e743b87ba.webp",
+    "alt_text": ""
+  },
+  {
+    "type": "practice_task",
+    "title": "Practicing with Different Lighting Effects",
+    "instruction": "Fill in the gap to create an image with a specific lighting effect.",
+    "task_type": "fill_in_the_gap",
+    "skipped": true
+  },
+  {
+    "type": "heading",
+    "title": "",
+    "content": null,
+    "image_url": null
+  },
+  {
+    "type": "text",
+    "content": "As you gain more experience, you'll learn to refine your lighting prompts for even better results."
+  },
+  {
+    "type": "quiz",
+    "question": "What can help you achieve better results when creating lighting prompts?",
+    "options": [
+      {
+        "text": "",
+        "is_correct": false
+      },
+      {
+        "text": "",
+        "is_correct": false
+      },
+      {
+        "text": "Specifying the direction, using shadows, and adjusting intensity",
+        "is_correct": true
+      },
+      {
+        "text": "",
+        "is_correct": false
+      }
+    ],
+    "explanation": "Specifying the direction, using shadows, and adjusting intensity help achieve better results when creating lighting prompts."
+  },
+  {
+    "type": "heading",
+    "title": "",
+    "content": null,
+    "image_url": null
+  },
+  {
+    "type": "text",
+    "content": "You've now learned how to master lighting in your AI art by considering direction, using shadows, and experimenting with intensity."
+  },
+  {
+    "type": "image",
+    "image_url": "./lesson 4 end_files/7d042817-607b-4dd7-a788-b9c521d4556d.webp",
+    "alt_text": ""
+  },
+  {
+    "type": "heading",
+    "title": "",
+    "content": null,
+    "image_url": null
+  },
+  {
+    "type": "text",
+    "content": "In the next lesson, we'll explore composition techniques.\n\nStay creative and keep experimenting!"
+  },
+  {
+    "type": "image",
+    "image_url": "./lesson 4 end_files/eaeb7d51-d01b-4dd2-a8a7-fe2e1ec25d37.webp",
+    "alt_text": ""
+  }
+]

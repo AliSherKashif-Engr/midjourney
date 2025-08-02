@@ -1,0 +1,185 @@
+[
+  {
+    "type": "text",
+    "content": "In the last lesson, you already tried generating an image. So, we know that to start, we use the \"/imagine\" command before writing the prompt itself."
+  },
+  {
+    "type": "image",
+    "image_url": "./lesson 2 end_files/352afdbb-f096-47f3-b3be-810bbc162404.webp",
+    "alt_text": ""
+  },
+  {
+    "type": "text",
+    "content": "For a prompt, you need to describe your desired image in words, much like asking a designer to create a specific picture. Imagine you're explaining exactly what you want to see.\n\nBut here's a trick: even if a human might understand your request no matter how you explain it, MidJourney or any other AI needs more precise instructions."
+  },
+  {
+    "type": "text",
+    "content": "Text: As you can see, for a specific outcome, you must write a structured prompt.\n\nThat's why, in this lesson, you will explore the basic structure of any prompt and practice it by generating a series of images."
+  },
+  {
+    "type": "image",
+    "image_url": "./lesson 2 end_files/11f337cc-b294-469a-abf1-810899476513.webp",
+    "alt_text": ""
+  },
+  {
+    "type": "text",
+    "content": "Here's a basic structure you can follow:\n\nCommand - > Subject - >  Setting - > Detail\n\nYou already know what a Command is, so let's dive deeper:"
+  },
+  {
+    "type": "quiz",
+    "question": "When creating an image, what do you think the subject should be?",
+    "options": [
+      {
+        "text": "",
+        "is_correct": false
+      },
+      {
+        "text": "",
+        "is_correct": false
+      },
+      {
+        "text": "The main focus of your image",
+        "is_correct": true
+      },
+      {
+        "text": "",
+        "is_correct": false
+      }
+    ],
+    "explanation": "That's right! The subject is the main focus of the whole image. It's what you want the viewer to notice first and what the rest of the elements support. For example, in a portrait, the subject is the person being depicted."
+  },
+  {
+    "type": "practice_task",
+    "title": "Defining the Subject",
+    "instruction": "Fill in the gap to define the subject in an AI art prompt.",
+    "task_type": "fill_in_the_gap",
+    "skipped": true
+  },
+  {
+    "type": "heading",
+    "title": "",
+    "content": null,
+    "image_url": null
+  },
+  {
+    "type": "text",
+    "content": "The setting describes the environment or context in which your subject is placed.\n\nIt answers questions like, \"Where is the superhero?\" and \"What are they doing?\"\n\nFor MidJourney, a clear and detailed setting helps the AI understand the backdrop and actions taking place in your image."
+  },
+  {
+    "type": "practice_task",
+    "title": "Adding Setting",
+    "instruction": "Fill in the gap to add details in an AI art prompt.",
+    "task_type": "fill_in_the_gap",
+    "skipped": true
+  },
+  {
+    "type": "heading",
+    "title": "",
+    "content": null,
+    "image_url": null
+  },
+  {
+    "type": "text",
+    "content": "Now, let's delve into the details:\n\nDetails add depth and specificity to your image. They help the AI fill in the finer points, such as colors, textures, and any small elements that make your image unique.\n\nThink about the nuances that complete the picture - what kind of lighting is there? What emotions or expressions are present?"
+  },
+  {
+    "type": "practice_task",
+    "title": "Complete Prompts",
+    "instruction": "Fill in the gap to create a complete prompt for better results.",
+    "task_type": "fill_in_the_gap",
+    "skipped": true
+  },
+  {
+    "type": "heading",
+    "title": "",
+    "content": null,
+    "image_url": null
+  },
+  {
+    "type": "text",
+    "content": "Here is a little secret: MidJourney works best with simple, short phrases that describe what you want to see. So, try to avoid long lists of requests and instructions."
+  },
+  {
+    "type": "image",
+    "image_url": "./lesson 2 end_files/5312e7bc-05f0-44d2-a0a4-7a2d2511e1d9.webp",
+    "alt_text": ""
+  },
+  {
+    "type": "text",
+    "content": "Look at the following prompt:\n\n/imagine Show me a picture of a superhero flying over a city, wearing a red cape, with a determined expression, and surrounded by clouds."
+  },
+  {
+    "type": "quiz",
+    "question": "Is it a good or bad example of a prompt, and why?",
+    "options": [
+      {
+        "text": "",
+        "is_correct": false
+      },
+      {
+        "text": "Good example because it provides many details",
+        "is_correct": false
+      },
+      {
+        "text": "",
+        "is_correct": false
+      },
+      {
+        "text": "Bad example because it's too long and detailed",
+        "is_correct": false
+      }
+    ],
+    "explanation": "Prompts that are too long and detailed can confuse the AI. It's better to keep them short and focused."
+  },
+  {
+    "type": "heading",
+    "title": "",
+    "content": null,
+    "image_url": null
+  },
+  {
+    "type": "text",
+    "content": "Instead of overwhelming MidJourney, you can try the following simplified prompt:"
+  },
+  {
+    "type": "practice_task",
+    "title": "Crafting a Simple Yet Detailed Prompt",
+    "instruction": "Fill in the gap to create a well-structured and detailed AI art prompt using the subject, setting, and detail.",
+    "task_type": "fill_in_the_gap",
+    "skipped": true
+  },
+  {
+    "type": "heading",
+    "title": "",
+    "content": null,
+    "image_url": null
+  },
+  {
+    "type": "text",
+    "content": "You can try creating your own prompts for these superhero themes and see what MidJourney generates:\n\nClassic Superhero: \"A classic superhero standing triumphantly on a skyscraper.\"\n\nStealthy Hero: \"A stealthy superhero in a dark alley, ready to spring into action.\"\n\nFuturistic Hero: \"A futuristic superhero with advanced technology and glowing armor.\""
+  },
+  {
+    "type": "image",
+    "image_url": "./lesson 2 end_files/a8a41b9d-fa3c-4b2d-a572-55a3eef6f674.webp",
+    "alt_text": ""
+  },
+  {
+    "type": "heading",
+    "title": "",
+    "content": null,
+    "image_url": null
+  },
+  {
+    "type": "text",
+    "content": "You've created your first AI art with MidJourney!\n\nKeep practicing and refining your prompts to create even more amazing images."
+  },
+  {
+    "type": "image",
+    "image_url": "./lesson 2 end_files/3f09a5f2-353b-4944-81a0-1ce48fdd3764.webp",
+    "alt_text": ""
+  },
+  {
+    "type": "text",
+    "content": "In the next lesson, we'll dive into advanced techniques like style, view, and light to create complex and dynamic images.\n\nStay creative and keep experimenting!"
+  }
+]

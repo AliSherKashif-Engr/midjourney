@@ -1,0 +1,116 @@
+[
+  {
+    "type": "text",
+    "content": "Picture this: You've created a stunning portfolio that showcases your preferred art styles, attracting clients and customers.\n\nThis portfolio can be your gateway to offering digital art commissions or selling prints online. Ready to get started?"
+  },
+  {
+    "type": "heading",
+    "title": "",
+    "content": null,
+    "image_url": null
+  },
+  {
+    "type": "text",
+    "content": "First things first, let's talk about selecting your preferred styles. What styles do you enjoy the most? Which ones make your creativity flow effortlessly?\n\nChoosing styles you love and feel confident creating is crucial. Let's find your artistic voice!"
+  },
+  {
+    "type": "text",
+    "content": "This could be anything from realistic portraits to abstract designs, anime, pixel art, and more. Let's begin by creating an artwork in one of your favorite styles."
+  },
+  {
+    "type": "practice_task",
+    "title": "Selecting Your Preferred Styles",
+    "instruction": "Fill in the gap to create an artwork.",
+    "task_type": "fill_in_the_gap",
+    "skipped": true
+  },
+  {
+    "type": "heading",
+    "title": "",
+    "content": null,
+    "image_url": null
+  },
+  {
+    "type": "text",
+    "content": "Once you've selected your styles, the next step is to create consistent artwork in those styles. Consistency is key to building a recognizable and professional portfolio."
+  },
+  {
+    "type": "image",
+    "image_url": "./lesson 7 end_files/2d75695b-f41a-446d-9502-84d7e1b382df.webp",
+    "alt_text": ""
+  },
+  {
+    "type": "text",
+    "content": "To generate more than 4 images in MidJourney, select the optional/options field and choose image3, image4, or image5. This allows you to create a series of artworks efficiently."
+  },
+  {
+    "type": "practice_task",
+    "title": "Creating Consistent Artwork",
+    "instruction": "Fill in the gap to create a series of consistent artworks.",
+    "task_type": "fill_in_the_gap",
+    "skipped": true
+  },
+  {
+    "type": "heading",
+    "title": "",
+    "content": null,
+    "image_url": null
+  },
+  {
+    "type": "text",
+    "content": "Now that you've created your artwork, it's time to showcase your portfolio. This can be done through various platforms like personal websites, social media, and online galleries."
+  },
+  {
+    "type": "image",
+    "image_url": "./lesson 7 end_files/a1de33f8-4c7b-4121-b21e-184c6255490b.webp",
+    "alt_text": ""
+  },
+  {
+    "type": "practice_task",
+    "title": "Showcasing Your Portfolio",
+    "instruction": "Fill in the gap to create a promotional image.",
+    "task_type": "fill_in_the_gap",
+    "skipped": true
+  },
+  {
+    "type": "heading",
+    "title": "",
+    "content": null,
+    "image_url": null
+  },
+  {
+    "type": "text",
+    "content": "One of the ways to monetize your art is by offering digital art commissions. This involves creating custom artwork based on the client's requirements."
+  },
+  {
+    "type": "image",
+    "image_url": "./lesson 7 end_files/3bbfdbc1-2b1c-417f-8ed6-12e4fcf4dc8d.webp",
+    "alt_text": ""
+  },
+  {
+    "type": "practice_task",
+    "title": "Offering Digital Art Commissions",
+    "instruction": "Fill in the gap to create a commission sample.",
+    "task_type": "fill_in_the_gap",
+    "skipped": true
+  },
+  {
+    "type": "heading",
+    "title": "",
+    "content": null,
+    "image_url": null
+  },
+  {
+    "type": "text",
+    "content": "You've now learned how to curate and sell your digital art in various styles."
+  },
+  {
+    "type": "text",
+    "content": "Keep creating, keep experimenting, and most importantly, enjoy the process!"
+  },
+  {
+    "type": "image",
+    "image_url": "./lesson 7 end_files/e1156106-35af-4839-87ea-80b774e624be.webp",
+    "alt_text": ""
+  }
+]

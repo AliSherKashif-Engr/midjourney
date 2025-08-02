@@ -1,0 +1,111 @@
+[
+  {
+    "type": "text",
+    "content": "Fine-tuning your images can transform a good artwork into a masterpiece. With MidJourney, you can adjust various settings to achieve the perfect look and feel."
+  },
+  {
+    "type": "text",
+    "content": "Let's begin by exploring the basic adjustment settings. These include brightness, contrast, saturation, and sharpness. Mastering these will give you control over the finer details of your images."
+  },
+  {
+    "type": "text",
+    "content": "Imagine you're editing a photo to enhance its clarity and vibrancy. You'll need to adjust the brightness to bring out details in the shadows, increase the contrast for depth, boost the saturation for vivid colors, and sharpen the image for crispness."
+  },
+  {
+    "type": "heading",
+    "title": "",
+    "content": null,
+    "image_url": null
+  },
+  {
+    "type": "text",
+    "content": "Let's practice adjusting these settings using MidJourney."
+  },
+  {
+    "type": "practice_task",
+    "title": "Practicing Image Adjustments",
+    "instruction": "Fill in the gap to adjust the brightness of an image using MidJourney.",
+    "task_type": "fill_in_the_gap",
+    "skipped": true
+  },
+  {
+    "type": "heading",
+    "title": "",
+    "content": null,
+    "image_url": null
+  },
+  {
+    "type": "text",
+    "content": "Beyond basic adjustments, MidJourney allows for complex edits that can mimic advanced photo editing software like Photoshop. Let's explore these advanced techniques."
+  },
+  {
+    "type": "practice_task",
+    "title": "Complex Edits",
+    "instruction": "Fill in the gap to perform complex edits on an image using MidJourney.",
+    "task_type": "fill_in_the_gap",
+    "skipped": true
+  },
+  {
+    "type": "heading",
+    "title": "",
+    "content": null,
+    "image_url": null
+  },
+  {
+    "type": "text",
+    "content": "Now that you can fine-tune and customize images like a pro, it's time to monetize these skills. Offering photo editing and retouching services can be highly lucrative. Platforms like Fiverr, Upwork, and your own website are great places to start."
+  },
+  {
+    "type": "quiz",
+    "question": "What is your first step to start your graphic design career?",
+    "options": [
+      {
+        "text": "Create a portfolio showcasing your best edited and retouched images",
+        "is_correct": false
+      },
+      {
+        "text": "Wait until you master MidJourney before starting to take on projects",
+        "is_correct": false
+      },
+      {
+        "text": "",
+        "is_correct": false
+      }
+    ],
+    "explanation": "While creating a social media page or mastering MidJourney can be helpful, the first step should be to create a portfolio showcasing your best edited and retouched images."
+  },
+  {
+    "type": "text",
+    "content": "Consistently deliver high-quality work, and you'll soon build a reputation as a top photo editor. The more services you offer, the more you can earn."
+  },
+  {
+    "type": "heading",
+    "title": "",
+    "content": null,
+    "image_url": null
+  },
+  {
+    "type": "text",
+    "content": "Congratulations! You've mastered the art of fine-tuning and customizing images with MidJourney. You've learned how to adjust settings for precise image control and perform complex edits and discovered how to monetize your skills by offering photo editing services."
+  },
+  {
+    "type": "image",
+    "image_url": "./lesson 15 end_files/9fbb3070-0adf-45af-9c8e-4c3d30bc3088.webp",
+    "alt_text": ""
+  },
+  {
+    "type": "heading",
+    "title": "",
+    "content": null,
+    "image_url": null
+  },
+  {
+    "type": "text",
+    "content": "In the next lesson, we'll explore advanced composition techniques to create stunning marketing materials. Keep practicing and refining your skills!"
+  },
+  {
+    "type": "image",
+    "image_url": "./lesson 15 end_files/9f83223d-c59f-4ffc-97d1-4c96cda68dda.webp",
+    "alt_text": ""
+  }
+]
