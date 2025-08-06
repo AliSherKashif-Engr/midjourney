@@ -1,11 +1,17 @@
 [
+   {
+    "type": "heading",
+    "title": "Continue...",
+    "content": null,
+    "image_url": null
+  },
   {
     "type": "text",
     "content": "I'm thrilled to guide you through the process of creating your first AI art using MidJourney! You'll learn to compose effective prompts and generate stunning images effortlessly in a specific direction - anything you dream of.\n\nReady to unleash your creativity? Let's dive in and start your journey!"
   },
   {
     "type": "image",
-    "image_url": ".ef03396c-5873-4d9e-9974-374fa5acf74a.webp",
+    "image_url": "./ef03396c-5873-4d9e-9974-374fa5acf74a.webp",
     "alt_text": ""
   }
 ]
