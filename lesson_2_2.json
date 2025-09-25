@@ -30,11 +30,11 @@
     "question": "When creating an image, what do you think the subject should be?",
     "options": [
       {
-        "text": "",
+        "text": "An action described in the prompt",
         "is_correct": false
       },
       {
-        "text": "",
+        "text": "The background",
         "is_correct": false
       },
       {
@@ -42,7 +42,7 @@
         "is_correct": true
       },
       {
-        "text": "",
+        "text": "A person",
         "is_correct": false
       }
     ],
@@ -52,12 +52,13 @@
     "type": "practice_task",
     "title": "Defining the Subject",
     "instruction": "Fill in the gap to define the subject in an AI art prompt.",
+    "solution": "https://d2h7i1o4snhir4.cloudfront.net/images/fill-the-gaps/1c6cb81e-8f86-4c16-ace6-9dafc2829764.webp",
     "task_type": "fill_in_the_gap",
     "skipped": true
   },
   {
     "type": "heading",
-    "title": "",
+    "title": "Setting (or simply Action)",
     "content": null,
     "image_url": null
   },
@@ -69,12 +70,13 @@
     "type": "practice_task",
     "title": "Adding Setting",
     "instruction": "Fill in the gap to add details in an AI art prompt.",
+    "solution": "https://d2h7i1o4snhir4.cloudfront.net/images/fill-the-gaps/03f55758-bde5-49ff-9154-2d571a60f209.webp",
     "task_type": "fill_in_the_gap",
     "skipped": true
   },
   {
     "type": "heading",
-    "title": "",
+    "title": "Details",
     "content": null,
     "image_url": null
   },
@@ -86,12 +88,13 @@
     "type": "practice_task",
     "title": "Complete Prompts",
     "instruction": "Fill in the gap to create a complete prompt for better results.",
+    "solution": "https://d2h7i1o4snhir4.cloudfront.net/images/fill-the-gaps/d2e7a363-a5a8-48d7-924b-edf062b3c6c2.webp",
     "task_type": "fill_in_the_gap",
     "skipped": true
   },
   {
     "type": "heading",
-    "title": "",
+    "title": "The MidJourney Best Practices",
     "content": null,
     "image_url": null
   },
@@ -113,7 +116,7 @@
     "question": "Is it a good or bad example of a prompt, and why?",
     "options": [
       {
-        "text": "",
+        "text": "Good example because it gives the AI freedom",
         "is_correct": false
       },
       {
@@ -121,7 +124,7 @@
         "is_correct": false
       },
       {
-        "text": "",
+        "text": "Bad example because it lacks specifics",
         "is_correct": false
       },
       {
@@ -133,7 +136,7 @@
   },
   {
     "type": "heading",
-    "title": "",
+    "title": "Simplifying Your Prompts",
     "content": null,
     "image_url": null
   },
@@ -145,12 +148,13 @@
     "type": "practice_task",
     "title": "Crafting a Simple Yet Detailed Prompt",
     "instruction": "Fill in the gap to create a well-structured and detailed AI art prompt using the subject, setting, and detail.",
+    "solution": "https://d2h7i1o4snhir4.cloudfront.net/images/fill-the-gaps/d2e7a363-a5a8-48d7-924b-edf062b3c6c2.webp",
     "task_type": "fill_in_the_gap",
     "skipped": true
   },
   {
     "type": "heading",
-    "title": "",
+    "title": "Practicing with Different Superheroes",
     "content": null,
     "image_url": null
   },
@@ -165,7 +169,7 @@
   },
   {
     "type": "heading",
-    "title": "",
+    "title": "Conclusion",
     "content": null,
     "image_url": null
   },
