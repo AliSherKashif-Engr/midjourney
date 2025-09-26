@@ -16,12 +16,13 @@
     "type": "practice_task",
     "title": "Basic Prompt Creation",
     "instruction": "Fill in the gap to create a basic prompt for generating an image.",
+    "solution": "",
     "task_type": "fill_in_the_gap",
     "skipped": true
   },
   {
     "type": "heading",
-    "title": "",
+    "title": "Adding Style to Your Prompt",
     "content": null,
     "image_url": null
   },
@@ -33,6 +34,7 @@
     "type": "practice_task",
     "title": "Adding Style to Your Prompt",
     "instruction": "Fill in the gap to enhance the prompt by including a specific style.",
+    "solution": "",
     "task_type": "fill_in_the_gap",
     "skipped": true
   },
@@ -73,6 +75,7 @@
     "type": "practice_task",
     "title": "Applying Low Stylization",
     "instruction": "Fill in the gap to create an image with a low stylization value.",
+    "solution": "",
     "task_type": "fill_in_the_gap",
     "skipped": true
   },
@@ -89,6 +92,7 @@
     "type": "practice_task",
     "title": "Applying High Stylization",
     "instruction": "Fill in the gap to create an image with a high stylization value.",
+    "solution": "",
     "task_type": "fill_in_the_gap",
     "skipped": true
   },
@@ -100,12 +104,13 @@
     "type": "practice_task",
     "title": "Using Raw Style Parameter",
     "instruction": "Fill in the gap to create an image using the --style raw parameter for simplicity.",
+    "solution": "",
     "task_type": "fill_in_the_gap",
     "skipped": true
   },
   {
     "type": "heading",
-    "title": "",
+    "title": "View",
     "content": null,
     "image_url": null
   },
@@ -122,12 +127,13 @@
     "type": "practice_task",
     "title": "Incorporating View",
     "instruction": "Fill in the gap to add a specific view or perspective to your prompt.",
+    "solution": "",
     "task_type": "fill_in_the_gap",
     "skipped": true
   },
   {
     "type": "heading",
-    "title": "",
+    "title": "Enhancing with Light",
     "content": null,
     "image_url": null
   },
@@ -144,6 +150,7 @@
     "type": "practice_task",
     "title": "Enhancing with Light",
     "instruction": "Fill in the gap to control the lighting effects in your prompt.",
+    "solution": "",
     "task_type": "fill_in_the_gap",
     "skipped": true
   },
@@ -164,7 +171,7 @@
   },
   {
     "type": "heading",
-    "title": "",
+    "title": "Conclusion",
     "content": null,
     "image_url": null
   },
