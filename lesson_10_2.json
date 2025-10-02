@@ -5,7 +5,7 @@
   },
   {
     "type": "heading",
-    "title": "",
+    "title": "Understanding Platform Specifications",
     "content": null,
     "image_url": null
   },
@@ -24,7 +24,7 @@
   },
   {
     "type": "heading",
-    "title": "",
+    "title": "Instagram",
     "content": null,
     "image_url": null
   },
@@ -42,7 +42,7 @@
     "question": "Let's find out the Aspect Ratio of the Instagram story (1080 x 1920 pixels)",
     "options": [
       {
-        "text": "",
+        "text": "1:1",
         "is_correct": false
       },
       {
@@ -58,7 +58,7 @@
   },
   {
     "type": "heading",
-    "title": "",
+    "title": "Facebook",
     "content": null,
     "image_url": null
   },
@@ -73,7 +73,7 @@
   },
   {
     "type": "heading",
-    "title": "",
+    "title": "How to Optimize Images for Different Platform?",
     "content": null,
     "image_url": null
   },
@@ -85,12 +85,13 @@
     "type": "practice_task",
     "title": "Optimizing Images for Facebook",
     "instruction": "Fill in the gap to create an image with the correct dimensions.",
+    "solution": "https://d2h7i1o4snhir4.cloudfront.net/images/fill-the-gaps/a2ec17ed-eb7f-4afe-9605-2c01eb8e07e3.webp",
     "task_type": "fill_in_the_gap",
     "skipped": true
   },
   {
     "type": "heading",
-    "title": "",
+    "title": "Twitter",
     "content": null,
     "image_url": null
   },
@@ -108,11 +109,11 @@
     "question": "Let's do some math! Find the Aspect Ratio of a Twitter Header Photo (1500 x 500 pixels)",
     "options": [
       {
-        "text": "",
+        "text": "2:1",
         "is_correct": false
       },
       {
-        "text": "",
+        "text": "1:1",
         "is_correct": false
       },
       {
@@ -126,12 +127,13 @@
     "type": "practice_task",
     "title": "Optimizing Images for Twitter",
     "instruction": "Fill in the gap to create an image with the correct dimensions for a specific purpose on Twitter.",
+    "solution": "https://d2h7i1o4snhir4.cloudfront.net/images/fill-the-gaps/e9bdade3-18bf-4fd4-883e-7e0a1b21f382.webp",
     "task_type": "fill_in_the_gap",
     "skipped": true
   },
   {
     "type": "heading",
-    "title": "",
+    "title": "LinkedIn",
     "content": null,
     "image_url": null
   },
@@ -148,12 +150,13 @@
     "type": "practice_task",
     "title": "Optimizing Images for LinkedIn",
     "instruction": "Fill in the gap to create an image with the correct dimensions.",
+    "solution": "https://d2h7i1o4snhir4.cloudfront.net/images/fill-the-gaps/83b6d3c4-6ae0-4708-a80b-3c380a53b57e.webp",
     "task_type": "fill_in_the_gap",
     "skipped": true
   },
   {
     "type": "heading",
-    "title": "",
+    "title": "Crafting the Perfect Prompt",
     "content": null,
     "image_url": null
   },
@@ -165,12 +168,13 @@
     "type": "practice_task",
     "title": "Crafting the Perfect Prompt",
     "instruction": "Fill in the gap to create an image optimized for a specific platform with the correct dimensions and style elements.",
+    "solution": "https://d2h7i1o4snhir4.cloudfront.net/images/fill-the-gaps/cb5bf2e7-86db-42c9-80c9-921243f8123c.webp",
     "task_type": "fill_in_the_gap",
     "skipped": true
   },
   {
     "type": "heading",
-    "title": "",
+    "title": "Conclusion and Next Steps",
     "content": null,
     "image_url": null
   },
