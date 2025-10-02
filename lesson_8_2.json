@@ -5,7 +5,7 @@
   },
   {
     "type": "heading",
-    "title": "",
+    "title": "What is Pattern Design?",
     "content": null,
     "image_url": null
   },
@@ -27,11 +27,11 @@
     "question": "What is the primary purpose of pattern design?",
     "options": [
       {
-        "text": "",
+        "text": "To adjust the size of an image",
         "is_correct": false
       },
       {
-        "text": "",
+        "text": "To change the color of an object",
         "is_correct": false
       },
       {
@@ -39,7 +39,7 @@
         "is_correct": true
       },
       {
-        "text": "",
+        "text": "To create isolated and unique images",
         "is_correct": false
       }
     ],
@@ -51,7 +51,7 @@
   },
   {
     "type": "heading",
-    "title": "",
+    "title": "Designing Packaging Patterns",
     "content": null,
     "image_url": null
   },
@@ -63,12 +63,13 @@
     "type": "practice_task",
     "title": "Designing Packaging Patterns",
     "instruction": "Fill in the gap to create a themed pattern.",
+    "solution": "https://d2h7i1o4snhir4.cloudfront.net/images/fill-the-gaps/988038c8-968d-4d41-8d79-270abd0aa818.webp",
     "task_type": "fill_in_the_gap",
     "skipped": true
   },
   {
     "type": "heading",
-    "title": "",
+    "title": "Designing Fabric Patterns",
     "content": null,
     "image_url": null
   },
@@ -80,12 +81,13 @@
     "type": "practice_task",
     "title": "Designing Fabric Patterns",
     "instruction": "Fill in the gap to create a themed pattern.",
+    "solution": "https://d2h7i1o4snhir4.cloudfront.net/images/fill-the-gaps/5de6b5cc-f555-4932-8a06-09f43cea96fa.webp",
     "task_type": "fill_in_the_gap",
     "skipped": true
   },
   {
     "type": "heading",
-    "title": "",
+    "title": "Applying Patterns to Products",
     "content": null,
     "image_url": null
   },
@@ -97,12 +99,13 @@
     "type": "practice_task",
     "title": "Applying Patterns to Products",
     "instruction": "Fill in the gap.",
+    "solution": "https://d2h7i1o4snhir4.cloudfront.net/images/fill-the-gaps/162ba38d-f5b4-459c-a935-09abb10247e8.webp",
     "task_type": "fill_in_the_gap",
     "skipped": true
   },
   {
     "type": "heading",
-    "title": "",
+    "title": "Marketing Your Patterns",
     "content": null,
     "image_url": null
   },
@@ -112,7 +115,7 @@
   },
   {
     "type": "heading",
-    "title": "",
+    "title": "Practicing with Pattern Design",
     "content": null,
     "image_url": null
   },
@@ -124,12 +127,13 @@
     "type": "practice_task",
     "title": "Practicing with Pattern Design",
     "instruction": "Fill in the gap to create and apply a pattern.",
+    "solution": "https://d2h7i1o4snhir4.cloudfront.net/images/fill-the-gaps/d53fca6b-86fa-4328-b003-12f639acf995.webp",
     "task_type": "fill_in_the_gap",
     "skipped": true
   },
   {
     "type": "heading",
-    "title": "",
+    "title": "Conclusion and Next Steps",
     "content": null,
     "image_url": null
   },
