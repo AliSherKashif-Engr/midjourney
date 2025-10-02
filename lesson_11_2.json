@@ -5,7 +5,7 @@
   },
   {
     "type": "heading",
-    "title": "",
+    "title": "The Importance of High-Quality Product Images",
     "content": null,
     "image_url": null
   },
@@ -24,7 +24,7 @@
   },
   {
     "type": "heading",
-    "title": "",
+    "title": "Generate Your Custom Style Tuner",
     "content": null,
     "image_url": null
   },
@@ -36,12 +36,13 @@
     "type": "practice_task",
     "title": "Let's Start!",
     "instruction": "Complete the prompt.",
+    "solution": "Create a style tuner. Create a shareable style tuner based on your prompt to customize the style of your images! Prompt: face cream in tube packaging with pink label Style Directions: 32 Mode: Raw Approximate Cost: 0.3 fast hours GPU credits Note: It will take around 2 minutes for the tuner to be generated. You will be notified when it is ready!",
     "task_type": "fill_in_the_gap",
     "skipped": true
   },
   {
     "type": "heading",
-    "title": "",
+    "title": "Open Your Custom Style Tuner",
     "content": null,
     "image_url": null
   },
@@ -56,7 +57,7 @@
   },
   {
     "type": "heading",
-    "title": "",
+    "title": "Select Images",
     "content": null,
     "image_url": null
   },
@@ -66,7 +67,7 @@
   },
   {
     "type": "heading",
-    "title": "",
+    "title": "Copy Your Code",
     "content": null,
     "image_url": null
   },
@@ -81,7 +82,7 @@
   },
   {
     "type": "heading",
-    "title": "",
+    "title": "Generate an Image!",
     "content": null,
     "image_url": null
   },
@@ -93,12 +94,13 @@
     "type": "practice_task",
     "title": "Let's Try!",
     "instruction": "Fill in the gap to create a product image.",
+    "solution": "https://d2h7i1o4snhir4.cloudfront.net/images/fill-the-gaps/00a8574f-bdb6-450f-9b43-3717b9713b73.webp",
     "task_type": "fill_in_the_gap",
     "skipped": true
   },
   {
     "type": "heading",
-    "title": "",
+    "title": "Enhancing Product Appeal",
     "content": null,
     "image_url": null
   },
@@ -108,7 +110,7 @@
   },
   {
     "type": "heading",
-    "title": "",
+    "title": "Blend Multiple Concepts",
     "content": null,
     "image_url": null
   },
@@ -120,12 +122,13 @@
     "type": "practice_task",
     "title": "Enhancing Product Appeal",
     "instruction": "Fill in the gap to create a lifestyle product image with specific elements.",
+    "solution": "https://d2h7i1o4snhir4.cloudfront.net/images/fill-the-gaps/d8773ac6-1c8e-4257-88a0-40cd602eee41.webp",
     "task_type": "fill_in_the_gap",
     "skipped": true
   },
   {
     "type": "heading",
-    "title": "",
+    "title": "Conclusion and Next Steps",
     "content": null,
     "image_url": null
   },
